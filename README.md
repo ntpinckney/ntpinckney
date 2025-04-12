@@ -1,16 +1,30 @@
-## Hi there 👋
+# ✨️ W e l c o m e 
 
-<!--
-**ntpinckney/ntpinckney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software application developer, graphic designer, user interface designer, and recent graduate. All of my academic and professional experience can be found in my [LinkedIn](https://www.linkedin.com/in/ntpinckney).
 
-Here are some ideas to get you started:
+## 👨‍💻 Languages
+- Java
+- C#
+- JavaScript
+- HTML
+- CSS
+- XML
+- SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tools and Frameworks
+- Android Studio
+- IntelliJ
+- Visual Studio
+- Visual Studio Code
+- Docker
+- Postman
+- Figma
+- Adobe Creative Suite (Photoshop, InDesign, Illustrator, XD)
+- Spring Boot
+- REST API
+
+## 💻 Operating Systems
+- Microsoft Windows
+- Linux (Fedora, Ubuntu)
+- MacOS
+- Android
