@@ -16,6 +16,8 @@ I'm a software application developer, graphic designer, user interface designer,
 - IntelliJ
 - Visual Studio
 - Visual Studio Code
+- MySQL
+- SQL Server
 - Docker
 - Postman
 - Figma
