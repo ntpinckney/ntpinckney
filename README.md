@@ -1,6 +1,6 @@
 # ✨️ W e l c o m e 
 
-I'm a software application developer, graphic designer, user interface designer, and recent graduate with an MS in Information Technology with a concentration in Software Application Development.
+I'm a recent MS graduate in Information Technology with a concentration in Software Application Development, leveraging a background in graphic design to create user-centered, accessible interfaces. I'm passionate about creating intuitive, user-centered software that makes everyday life a little easier. Also a proud cat dad. 🐈
 
 ## 💡 Current Projects
 
@@ -18,3 +18,4 @@ At the moment, I'm just updating some of my student projects so they can look mo
 
 ## 🤝 Let's Connect!
 - Feel free to check out my [LinkedIn](https://www.linkedin.com/in/ntpinckney)!
+- Here’s my [Behance](https://www.behance.net/ntpinckneydesigns)! I’m currently moving more into software development, using my graphic design background to build better, more intuitive interfaces. Still, I’m open to creative projects or collaborations that use either (or both) of these skills.
