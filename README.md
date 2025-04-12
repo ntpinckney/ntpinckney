@@ -1,6 +1,6 @@
 # ✨️ W e l c o m e 
 
-I'm a recent MS graduate in Information Technology with a concentration in Software Application Development, leveraging a background in graphic design to create user-centered, accessible interfaces. I'm passionate about creating intuitive, user-centered software that makes everyday life a little easier. Also a proud cat dad. 🐈
+I'm a recent MS graduate in Information Technology with a concentration in Software Application Development, leveraging a background in graphic design to create user-centered, accessible interfaces. I'm passionate about creating intuitive software that makes everyday life a little easier. Also a proud cat dad. 🐈
 
 ## 💡 Current Projects
 
