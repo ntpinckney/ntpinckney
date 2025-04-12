@@ -28,3 +28,9 @@ I'm a software application developer, graphic designer, user interface designer,
 - Linux (Fedora, Ubuntu)
 - MacOS
 - Android
+
+## 💡 Current Projects
+
+At the moment, I'm just updating some of my student projects so they can look more professional and have better code.
+- TrackMyPills (Android)—ALMOST DONE!
+- MyWeatherApp (Web-based/Spring)—Next in line
