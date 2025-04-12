@@ -20,6 +20,7 @@ I'm a software application developer, graphic designer, user interface designer,
 - SQL Server
 - Docker
 - Postman
+- VirtualBox
 - Figma
 - Adobe Creative Suite (Photoshop, InDesign, Illustrator, XD)
 - Spring Boot
