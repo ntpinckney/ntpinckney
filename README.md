@@ -1,6 +1,6 @@
 # ✨️ W e l c o m e 
 
-I'm a software application developer, graphic designer, user interface designer, and recent graduate. All of my academic and professional experience can be found in my [LinkedIn](https://www.linkedin.com/in/ntpinckney).
+I'm a software application developer, graphic designer, user interface designer, and recent graduate. All of my academic and professional experience can be found on my [LinkedIn](https://www.linkedin.com/in/ntpinckney).
 
 ## 👨‍💻 Languages
 - Java
