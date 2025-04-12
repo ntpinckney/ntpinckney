@@ -4,7 +4,7 @@ I'm a recent MS graduate in Information Technology with a concentration in Softw
 
 ## 💡 Current Projects
 
-At the moment, I'm just updating some of my student projects so they can look more professional and have better code.
+At the moment, I'm just updating some of my student projects so they can look more professional and have better code:
 - TrackMyPills (Android)—ALMOST DONE!
 - MyWeatherApp (Web-based/Spring)—Next in line
 
