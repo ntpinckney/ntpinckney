@@ -21,4 +21,4 @@ At the moment, I'm just updating some of my student projects so they can look mo
 
 ## 🤝 Let's Connect!
 - Feel free to check out my [LinkedIn](https://www.linkedin.com/in/ntpinckney)!
-- Here’s my [Behance](https://www.behance.net/ntpinckneydesigns)! I’m currently moving more into software development, using my graphic design background to build better, more intuitive interfaces. Still, I’m open to creative projects or collaborations that use either (or both) of these skills.
+- Here’s my [Behance](https://www.behance.net/ntpinckneydesigns)! I’m currently moving more into software development, using my graphic design background to build intuitive interfaces. Still, I’m open to creative projects or collaborations that use either (or both) of these skills.
