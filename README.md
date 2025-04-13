@@ -17,7 +17,7 @@ At the moment, I'm just updating some of my student projects so they can look mo
 - **IDEs**: Android Studio, IntelliJ, Visual Studio, Visual Studio Code
 - **Dev Tools**: Docker, Postman, MySQL, SQL Server, VirtualBox, REST APIs
 - **Design Tools**: Figma, Adobe Creative Suite (Photoshop, InDesign Illustrator, XD)
-- **Operating Systems** : Microsoft Windows, Linux (Fedora, Ubuntu), MacOS, Android
+- **Operating Systems**: Microsoft Windows, Linux (Fedora, Ubuntu), MacOS, Android
 
 ## 🤝 Let's Connect!
 - Feel free to check out my [LinkedIn](https://www.linkedin.com/in/ntpinckney)!
