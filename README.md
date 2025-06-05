@@ -11,7 +11,7 @@ I'm a recent MS graduate in Information Technology with a concentration in Softw
 At the moment, I'm just updating some of my student projects so they can look more professional and have better code:
 
 - 🌦 **WeatherApp (Spring Boot)** – A web-based weather tracking application that fetches and displays five-day forecasts based on location input. Built with Java, Spring Boot, HTML, CSS (Bootstrap), and JavaScript with plans for UI and feature enhancements.
-**STATUS: In development**
+**STATUS: Early in development.**
 
 ## 🛠 Tools and Technologies
 
